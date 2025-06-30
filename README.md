@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/korcakSEA/order-summary-component-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://korcaksea.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -44,9 +44,9 @@ Users should be able to:
 
 ### What I learned
 
-MY major learnings while working through this project is that min-height trick is a classic lifesaver for responsive layouts.
+My major learnings while working through this project is that min-height trick is a classic lifesaver for responsive layouts.
 
-You see the code snippets below:
+You see the code snippet below:
 
 ```css
 body{
